@@ -1,5 +1,8 @@
-a = 1;
-b = 2;
-printf("resultado:\n");
-printf(a+b);
-printf("bola");
+git log
+git add
+git status
+git commit -m "teste"
+git init
+git config --global user.nome "Murillo"
+git config --global user.email "murillo_mcrc@hotmail.com"
+git config --global color.ui auto
